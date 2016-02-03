@@ -1,2 +1,2 @@
 # react-skeleton
-seeding react projects
+seeding react projects from here on out. 
